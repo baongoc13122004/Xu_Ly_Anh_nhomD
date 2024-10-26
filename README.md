@@ -1,0 +1,1 @@
+MÔ HÌNH CNN TRONG XÁC ĐỊNH LỚP VẬT THỂ TRONG ẢNH
